@@ -14,7 +14,9 @@
 <property name="mdpc.copyright"
 	value="Copyright 2016 fullhax &lt;https://github.com/fullhax&gt;"/>
 <property name="mdpc.lblock">
-License: MIT License
+License: Expat
+ MIT License
+ .
  Copyright (c) 2016 
  .
  Permission is hereby granted, free of charge, to any person obtaining a copy
