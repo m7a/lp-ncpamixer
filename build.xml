@@ -4,6 +4,7 @@
 <!-- APPLICATION METADATA -->
 <property name="mdpc.name"    value="mdvl-ncpamixer"/>
 <property name="mdpc.section" value="sound"/>
+<property name="mdpc.bdep"    value="cmake, libpulse-dev, c++-compiler"/>
 <property name="mdpc.descrs"
 	>An ncurses mixer for PulseAudio inspired by pavucontrol</property>
 <property name="mdpc.arch"    value="any"/>
